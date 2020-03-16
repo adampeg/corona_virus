@@ -1,3 +1,5 @@
+# function downloads latest case data by county and plots barchart
+
 library(tidyverse)
 
 cases_by_county <- function(){
